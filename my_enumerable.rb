@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 # module to create new  my enumerable object
 module MyEnumerable
   def all?
