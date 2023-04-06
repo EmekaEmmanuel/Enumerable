@@ -81,7 +81,7 @@ To run the project, execute the following command in terminal:
 
  - Github: [@MarkoKermi](https://github.com/MarkoKermi) 
  - Twitter: [@MarkKerm](https://twitter.com/MarkoKerm) 
- - LinkedIn: [@omarko-kermichiev](https://www.linkedin.com/in/marko-kermichiev/) 
+ - LinkedIn: [@marko-kermichiev](https://www.linkedin.com/in/marko-kermichiev/) 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
