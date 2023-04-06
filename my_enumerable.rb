@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 
-# class to create new  my list object
+# module to create new  my enumerable object
 module MyEnumerable
   def all?
     arr = []

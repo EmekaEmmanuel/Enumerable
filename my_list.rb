@@ -16,5 +16,3 @@ class MyList
     yield @lists
   end
 end
-
-
